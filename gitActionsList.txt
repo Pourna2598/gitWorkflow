@@ -3,4 +3,6 @@ git commit
 git pull
 git push
 git fork
+git merge
+git rebase
 ------------------------
