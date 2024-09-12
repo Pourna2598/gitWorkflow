@@ -5,4 +5,5 @@ git push
 git fork
 git merge
 git rebase
+cherry pick
 ------------------------
