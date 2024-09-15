@@ -7,4 +7,5 @@ git merge
 git rebase
 cherry pick
 ooooooooo---------ooooooooo
+git status
 ------------------------
